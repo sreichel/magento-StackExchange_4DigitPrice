@@ -1,0 +1,15 @@
+{
+    "name": "mse-sv3n/m1-4-digit-price",
+    "description": "Store prices with 4 digits",
+    "authors": [
+        {
+            "name": "Sven Reichel",
+            "email": "github-sr@hotmail.com",
+            "role": "Author/Maintainer"
+        }
+    ],
+    "license": [
+        "OSL-3.0"
+    ],
+    "type": "magento-module"
+}
