@@ -1,6 +1,6 @@
 # Magento 1 Extension: 4-Digit-Price
 
-[![Support](https://img.shields.io/badge/paypal-donate-lightblue.svg?logo=paypal)](https://codeclimate.com/github/sreichel/magento-StackExchange_4DigitPrice/test_coverage)
+[![Support](https://img.shields.io/badge/paypal-donate-lightblue.svg?logo=paypal)](https://www.paypal.me/sv3n1)
 
 ## Facts
 - [extension at github.com](https://github.com/sreichel/magento-StackExchange_4DigitPrice)
