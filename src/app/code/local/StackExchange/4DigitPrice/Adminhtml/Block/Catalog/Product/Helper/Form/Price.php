@@ -1,6 +1,6 @@
 <?php
 /**
- * Maxxcount-Module
+ * StackExchange-Module
  *
  * @author      Sven Reichel <github-sr@hotmail.com>
  * @category    StackExchange
@@ -19,6 +19,7 @@ class StackExchange_4DigitPrice_Adminhtml_Block_Catalog_Product_Helper_Form_Pric
      *
      * @param  null $index
      * @return string $value product price
+     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
     public function getEscapedValue($index = null)
     {

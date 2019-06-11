@@ -1,6 +1,7 @@
 # Magento 1 Extension: 4-Digit-Price
 
 [![Support](https://img.shields.io/badge/paypal-donate-lightblue.svg?logo=paypal)](https://www.paypal.me/sv3n1)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/10a1f174e98042d69beaf081f9ad1d55)](https://www.codacy.com/app/sreichel/magento-StackExchange_4DigitPrice?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sreichel/magento-StackExchange_4DigitPrice&amp;utm_campaign=Badge_Grade)
 
 ## Facts
 - [extension at github.com](https://github.com/sreichel/magento-StackExchange_4DigitPrice)

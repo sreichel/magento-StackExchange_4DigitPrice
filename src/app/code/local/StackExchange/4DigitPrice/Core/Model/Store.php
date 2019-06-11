@@ -1,6 +1,6 @@
 <?php
 /**
- * Maxxcount-Module
+ * StackExchange-Module
  *
  * @author      Sven Reichel <github-sr@hotmail.com>
  * @category    StackExchange
