@@ -13,6 +13,12 @@
 
 Change price precion from 2 to 4 digits.
 
+### Requirements
+- PHP >= 7.1.0 
+
+### Compatibility
+- Magento >= 1.5
+
 #### Installation
 - via modman
 ```
