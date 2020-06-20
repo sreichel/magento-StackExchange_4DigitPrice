@@ -11,5 +11,8 @@
     "license": [
         "OSL-3.0"
     ],
-    "type": "magento-module"
+    "type": "magento-module",
+    "require": {
+        "php": ">= 7.1"
+    }
 }

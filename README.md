@@ -18,9 +18,14 @@ Change price precion from 2 to 4 digits.
 ```
 modman clone https://github.com/sreichel/magento-StackExchange_4DigitPrice.git
 ```
-- via composer
+- via composer (recommended)
 ```
 composer require mse-sv3n/m1-4-digit-price
+```
+
+__Note:__ If your PHP is below v7.1, you have to use version 1.x
+```
+composer require mse-sv3n/m1-4-digit-price:^1.0
 ```
 
 #### Uninstallation

@@ -18,9 +18,9 @@ class StackExchange_4DigitPrice_Core_Model_Store extends Mage_Core_Model_Store
      * Rewrite: original methode rounds for 2 digits
      *
      * @param mixed $price
-     * @return double
+     * @return float
      */
-    public function roundPrice($price)
+    public function roundPrice($price): float
     {
         return round($price, 4);
     }

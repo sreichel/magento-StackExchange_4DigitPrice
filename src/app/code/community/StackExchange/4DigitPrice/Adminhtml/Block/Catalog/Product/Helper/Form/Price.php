@@ -21,7 +21,7 @@ class StackExchange_4DigitPrice_Adminhtml_Block_Catalog_Product_Helper_Form_Pric
      * @return string $value product price
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function getEscapedValue($index = null)
+    public function getEscapedValue($index = null): ?string
     {
         $value = $this->getValue();
         if (!is_numeric($value)) {
